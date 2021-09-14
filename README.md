@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wbarbee (Will Barbee)
-- 👀 I’m interested in musical composition, general self-improvement (meditation, weightlifting, psychology), finance/financials + how technology can facilitate advancement in all of these areas
+- 👀 I’m interested in musical composition, general self-improvement (weightlifting, mindfulness, psychology), finance/financials + how technology can facilitate advancement in all of these areas
 - 🌱 I’m currently learning Nuxt.js, Next.js, accessibility, & reaching deeper into the stack
 - 💞️ I’m looking to collaborate on 
 - 💼 Portfolio Site: <a href="www.willbarbee.com">www.willbarbee.com</a>
